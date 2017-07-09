@@ -1,0 +1,6 @@
+Sam loves cats #replace cat dog
+Minions are yellow creatures #swap 3 1
+My food tastes like chicken #uppercase last
+Paper beat rock #reverse
+No operator
+
